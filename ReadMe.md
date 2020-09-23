@@ -1,6 +1,6 @@
-##zellviewAbba
+## zellviewAbba
 
-is a simple android-app written in Blockly for<br>
+is a simple android-app written in Blockly for
 **[AppInventor2](http://ai2.appinventor.mit.edu)**<br>
 showing the use of buttons, sounds and pictures.
 
