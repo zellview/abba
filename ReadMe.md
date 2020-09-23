@@ -1,11 +1,11 @@
 zellviewAbba
 
 is a simple android-app written in Blockly for
-[AppInventor2](http://ai2.appinventor.mit.edu)
+[AppInventor2](http://ai2.appinventor.mit.edu).
 
 You will need 
 [companion app](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=de)
-on Android-Phone
+on your Android-Phone
 
 enjoy and happy coding
 
