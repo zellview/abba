@@ -4,4 +4,4 @@ ABBA is a band from sweden.
 
 enjoy and happy coding
 
-powered by zellview network (c) 2023
+by zellview media (c) 2024
